@@ -18,7 +18,7 @@
     
 }
 .logo{
-    background-image: url('./amazon_logo.png');
+    background-image: url('./Assets/amazon_logo.png');
     height: 50px;
     width: 100px; 
 
@@ -224,7 +224,7 @@ ul a {
 }
 
 .logo{
-    background-image: url("/Amazon-website-clone/assets/img/amazon_logo.png");
+    background-image: url("./Assets/amazon_logo.png");
     height: 50px;
     width: 100px; 
     background-size: cover;
